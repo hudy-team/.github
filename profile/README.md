@@ -22,7 +22,7 @@
 
 | Repository | Description | Stack |
 |:-----------|:------------|:------|
-| **[hudy_backend](https://github.com/hudy-team/hudy_backend)** | REST API 서버 | ![Rust](https://img.shields.io/badge/Rust-f74c00?logo=rust&logoColor=white) ![actix-web](https://img.shields.io/badge/actix--web-0055aa?logo=rust&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
+| **[hudy_api_server](https://github.com/hudy-team/hudy_api_server)** | REST API 서버 | ![Rust](https://img.shields.io/badge/Rust-f74c00?logo=rust&logoColor=white) ![actix-web](https://img.shields.io/badge/actix--web-0055aa?logo=rust&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
 | **[hudy_frontend](https://github.com/hudy-team/hudy_frontend)** | 랜딩 페이지 + 대시보드 | ![Next.js](https://img.shields.io/badge/Next.js_16-000000?logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React_19-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
 | **[hudy_sdk](https://github.com/hudy-team/hudy_sdk)** | 공식 SDK (TypeScript + Python) | ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white) ![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=white) |
 
